@@ -1,5 +1,7 @@
 # Hi my name is ankit 
 # i have done given assignment 
+## Installation
+To install the required dependencies install requirements.txt
 # there are the steps to run this project
 #  STEP 1
   // after download this project you need to create database with "nimap" and change in your settings.py according to your usename and password 
